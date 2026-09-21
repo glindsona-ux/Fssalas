@@ -1,1 +1,534 @@
-
+{
+  "usuarios": {
+    "1512575443771854924": {
+      "salasDisponiveis": 1000040,
+      "salasCriadas": 8,
+      "senhaPadrao": "22",
+      "inicioAutoMin": 1,
+      "historico": [
+        {
+          "config": "Gelo Infinito",
+          "origem": "aposta",
+          "criadoEm": "2026-08-21T00:36:54.612Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T23:01:00.131Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T21:37:13.823Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T21:11:08.167Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-16T21:08:12.932Z"
+        },
+        {
+          "config": "Gelo Infinito",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T21:08:00.746Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T21:07:50.859Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T21:07:03.395Z"
+        }
+      ],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": "ab8e722314a3477d91e0787fbe818c78",
+      "ilimitadoAte": null
+    },
+    "1473537904398569507": {
+      "salasDisponiveis": 9,
+      "salasCriadas": 1,
+      "senhaPadrao": "00",
+      "inicioAutoMin": 5,
+      "historico": [
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T21:41:45.096Z"
+        }
+      ],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": "fd46f4591ba5423fb15fa5cda27e5d4e",
+      "ilimitadoAte": null
+    },
+    "1478175662597603358": {
+      "salasDisponiveis": 66,
+      "salasCriadas": 6,
+      "senhaPadrao": "22",
+      "inicioAutoMin": 3,
+      "historico": [
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-21T13:29:10.455Z"
+        },
+        {
+          "config": "Gelo Infinito",
+          "origem": "aposta",
+          "criadoEm": "2026-08-21T01:46:49.280Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T20:54:05.391Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T01:31:18.156Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-16T22:23:17.185Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "aposta",
+          "criadoEm": "2026-08-16T22:00:53.775Z"
+        }
+      ],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": "9962cc08a00d4fba9de4a73f4fc384f8",
+      "ilimitadoAte": null
+    },
+    "1522489919698636814": {
+      "salasDisponiveis": 10,
+      "salasCriadas": 0,
+      "senhaPadrao": null,
+      "inicioAutoMin": 5,
+      "historico": [],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": null,
+      "ilimitadoAte": null
+    },
+    "1315453066090381407": {
+      "salasDisponiveis": 942,
+      "salasCriadas": 8,
+      "senhaPadrao": "22",
+      "inicioAutoMin": 3,
+      "historico": [
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-21T17:49:06.956Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-21T17:23:13.856Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-20T17:47:43.773Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T18:35:39.150Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T15:46:23.292Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-18T17:08:13.374Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-18T15:06:00.662Z"
+        },
+        {
+          "config": "Gelo Infinito",
+          "origem": "painel",
+          "criadoEm": "2026-08-17T14:45:19.678Z"
+        }
+      ],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": null,
+      "ilimitadoAte": null
+    },
+    "1243928931455733802": {
+      "salasDisponiveis": 35,
+      "salasCriadas": 15,
+      "senhaPadrao": "00",
+      "inicioAutoMin": 3,
+      "historico": [
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-21T09:51:11.313Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-20T12:34:11.407Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-20T11:24:40.038Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T22:49:36.023Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T22:31:31.114Z"
+        },
+        {
+          "config": "Gelo Infinito",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T22:14:23.050Z"
+        },
+        {
+          "config": "Gelo Infinito",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T21:51:22.067Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T20:03:30.244Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-19T19:51:28.489Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-18T18:43:51.270Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-18T18:00:28.242Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-18T17:44:55.400Z"
+        },
+        {
+          "config": "Gelo Infinito",
+          "origem": "painel",
+          "criadoEm": "2026-08-18T01:51:53.673Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-18T00:25:33.561Z"
+        },
+        {
+          "config": "Gelo Normal",
+          "origem": "painel",
+          "criadoEm": "2026-08-17T03:09:51.839Z"
+        }
+      ],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": null,
+      "ilimitadoAte": null
+    },
+    "1528128032286703667": {
+      "salasDisponiveis": 50,
+      "salasCriadas": 0,
+      "senhaPadrao": null,
+      "inicioAutoMin": 5,
+      "historico": [],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": null,
+      "ilimitadoAte": null
+    },
+    "1534043988166971512": {
+      "salasDisponiveis": 2,
+      "salasCriadas": 0,
+      "senhaPadrao": null,
+      "inicioAutoMin": 5,
+      "historico": [],
+      "indicadoPor": null,
+      "indicacaoRecompensada": false,
+      "ultimaSessaoId": null,
+      "ilimitadoAte": null
+    }
+  },
+  "tickets": {
+    "mswakz7xsoa6e6": {
+      "userId": "1512575443771854924",
+      "quantidade": 100,
+      "valor": 5,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538654449399103599",
+      "tipo": "salas",
+      "dias": null,
+      "status": "pendente",
+      "createdAt": "2026-08-16T21:03:28.077Z"
+    },
+    "mswavfidvf4q4u": {
+      "userId": "1512575443771854924",
+      "quantidade": 10,
+      "valor": 0.5,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538656492507365478",
+      "tipo": "salas",
+      "dias": null,
+      "status": "cancelado",
+      "createdAt": "2026-08-16T21:11:35.749Z"
+    },
+    "mswazvyfwb6y9e": {
+      "userId": "1512575443771854924",
+      "quantidade": 10,
+      "valor": 0.5,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538657365170200627",
+      "tipo": "salas",
+      "dias": null,
+      "status": "confirmado",
+      "createdAt": "2026-08-16T21:15:03.687Z"
+    },
+    "mswbpaq2t0d11k": {
+      "userId": "1473537904398569507",
+      "quantidade": 10,
+      "valor": 0.3,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538662336573866087",
+      "tipo": "salas",
+      "dias": null,
+      "status": "confirmado",
+      "createdAt": "2026-08-16T21:34:49.226Z"
+    },
+    "msweqif6rz9fil": {
+      "userId": "1512575443771854924",
+      "quantidade": 100,
+      "valor": 3,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538683710721753150",
+      "tipo": "salas",
+      "dias": null,
+      "status": "confirmado",
+      "createdAt": "2026-08-16T22:59:44.706Z"
+    },
+    "mswf71w8je9i22": {
+      "userId": "1512575443771854924",
+      "quantidade": 10,
+      "valor": 0.3,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538686937290768485",
+      "tipo": "salas",
+      "dias": null,
+      "status": "cancelado",
+      "createdAt": "2026-08-16T23:12:36.440Z"
+    },
+    "mswhgm13jqimwn": {
+      "userId": "1512575443771854924",
+      "quantidade": 10,
+      "valor": 0.3,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538702906885414943",
+      "tipo": "salas",
+      "dias": null,
+      "status": "confirmado",
+      "createdAt": "2026-08-17T00:16:01.671Z"
+    },
+    "mswhhlnlipb2ac": {
+      "userId": "1478175662597603358",
+      "quantidade": 10000,
+      "valor": 300,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538703100209139764",
+      "tipo": "salas",
+      "dias": null,
+      "status": "cancelado",
+      "createdAt": "2026-08-17T00:16:47.841Z"
+    },
+    "mswmf6a6vuji0n": {
+      "userId": "1512575443771854924",
+      "quantidade": 10,
+      "valor": 0.3,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538737849027797053",
+      "tipo": "salas",
+      "dias": null,
+      "status": "pendente",
+      "createdAt": "2026-08-17T02:34:52.686Z"
+    },
+    "msx2h9riq0zanp": {
+      "userId": "1478175662597603358",
+      "quantidade": 70,
+      "valor": 2.1,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1538850978164637706",
+      "tipo": "salas",
+      "dias": null,
+      "status": "aguardando_confirmacao",
+      "createdAt": "2026-08-17T10:04:24.366Z"
+    },
+    "msze5tj9s3ul8b": {
+      "userId": "1478175662597603358",
+      "quantidade": 70,
+      "valor": 2.1,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1539440500837457972",
+      "tipo": "salas",
+      "dias": null,
+      "status": "confirmado",
+      "createdAt": "2026-08-19T01:06:57.861Z"
+    },
+    "mt05kgfr3qcedj": {
+      "userId": "1528405507948150884",
+      "quantidade": 100000,
+      "valor": 3000,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1539633574515310723",
+      "tipo": "salas",
+      "dias": null,
+      "status": "aguardando_confirmacao",
+      "createdAt": "2026-08-19T13:54:10.359Z"
+    },
+    "mt3a48i95b5e2u": {
+      "userId": "1533607406632702092",
+      "quantidade": 10,
+      "valor": 0.3,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1540426464938434580",
+      "tipo": "salas",
+      "dias": null,
+      "status": "confirmado",
+      "createdAt": "2026-08-21T18:24:50.193Z"
+    },
+    "mt3aa5k2dwju30": {
+      "userId": "1501459046400528465",
+      "quantidade": 10,
+      "valor": 0.3,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1540427623094820896",
+      "tipo": "salas",
+      "dias": null,
+      "status": "confirmado",
+      "createdAt": "2026-08-21T18:29:26.306Z"
+    },
+    "mt3bdbqzltztl8": {
+      "userId": "1501459046400528465",
+      "quantidade": 10000,
+      "valor": 300,
+      "pixKey": "5ecfcc66-6929-44c1-b25c-85ebef2927de",
+      "threadId": "1540435289246277703",
+      "tipo": "salas",
+      "dias": null,
+      "status": "pendente",
+      "createdAt": "2026-08-21T18:59:53.915Z"
+    }
+  },
+  "lucroPorDia": {
+    "2026-08-16": 3.8,
+    "2026-08-17": 0.3,
+    "2026-08-19": 2.1,
+    "2026-08-21": 0.6
+  },
+  "blacklist": {},
+  "keys": {
+    "JC-8SAM-QFEF-3JF1": {
+      "quantidade": 10,
+      "userId": "1512575443771854924",
+      "usada": false,
+      "criadaEm": "2026-08-16T21:15:11.545Z",
+      "usadaEm": null,
+      "ticketId": "mswazvyfwb6y9e"
+    },
+    "JC-T1FA-OAH0-SNNS": {
+      "quantidade": 10,
+      "userId": "1473537904398569507",
+      "usada": true,
+      "criadaEm": "2026-08-16T21:35:44.119Z",
+      "usadaEm": "2026-08-16T21:40:11.292Z",
+      "ticketId": "mswbpaq2t0d11k"
+    },
+    "JC-TN7L-VXUQ-J4AW": {
+      "quantidade": 100,
+      "userId": "1512575443771854924",
+      "usada": false,
+      "criadaEm": "2026-08-16T22:59:51.835Z",
+      "usadaEm": null,
+      "ticketId": "msweqif6rz9fil"
+    },
+    "JC-9IK6-YNNW-17B5": {
+      "quantidade": 10,
+      "userId": "1512575443771854924",
+      "usada": false,
+      "criadaEm": "2026-08-17T00:16:09.929Z",
+      "usadaEm": null,
+      "ticketId": "mswhgm13jqimwn"
+    },
+    "JC-12P6-1RHQ-ZSF0": {
+      "quantidade": 70,
+      "userId": "1478175662597603358",
+      "usada": true,
+      "criadaEm": "2026-08-19T01:07:54.600Z",
+      "usadaEm": "2026-08-19T01:30:32.303Z",
+      "ticketId": "msze5tj9s3ul8b"
+    },
+    "JC-S6W7-NLHJ-H18G": {
+      "quantidade": 10,
+      "userId": "1501459046400528465",
+      "usada": false,
+      "criadaEm": "2026-08-21T18:33:53.365Z",
+      "usadaEm": null,
+      "ticketId": "mt3aa5k2dwju30"
+    },
+    "JC-45AE-8263-RXQY": {
+      "quantidade": 10,
+      "userId": "1533607406632702092",
+      "usada": false,
+      "criadaEm": "2026-08-21T18:37:24.125Z",
+      "usadaEm": null,
+      "ticketId": "mt3a48i95b5e2u"
+    }
+  },
+  "config": {
+    "precoPorSala": 0.03,
+    "combos": [
+      {
+        "quantidade": 800,
+        "preco": 15
+      }
+    ],
+    "logChannelId": "1538701686044889239",
+    "buyerRoleId": "1538701449440006184",
+    "ticketAlertRoleId": "1538647327634358483",
+    "pixKey": null,
+    "privateLogChannelId": "1538701683419254924",
+    "planosIlimitados": []
+  }
+}
